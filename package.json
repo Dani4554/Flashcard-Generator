@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dani4554/Flashcard-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dani4554/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/Dani4554/Flashcard-Generator#readme",
+  "dependencies": {
+    "jshint": "^2.9.5"
+  }
+}
